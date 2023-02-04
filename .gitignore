@@ -1,5 +1,6 @@
 pretrained
 models
+IMG
 __pycache__
 .ipynb_checkpoints
 .DS_Store
